@@ -1,2 +1,2 @@
 # leetCode-ejercicios
-Ejercicios resolución de ejercicios de la página leetCode
+Solución de ejercicios de la página leetCode
